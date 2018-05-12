@@ -1,4 +1,5 @@
-<h1> Requisitos </h1>
+
+## REQUISITOS
 - Uma empresa pretende automatizar seu fluxo atual de solicitação de abono de faltas.
 - Cada empregado deverá solicitar o abono de faltas informando o período e o motivo da falta.
 - A chefia imediata deverá analisar as solicitações e aprovar ou não. Ao aprovar, a solicitação será encaminhada para análise do RH.
