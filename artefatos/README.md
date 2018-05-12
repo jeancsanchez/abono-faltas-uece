@@ -8,4 +8,4 @@
 
 
 ## Diagrama de classes
-[![](https://github.com/jeancsanchez/abono-faltas-uece/blob/master/artefatos/diagrama_classes.png)
+![](https://github.com/jeancsanchez/abono-faltas-uece/blob/master/artefatos/diagrama_classes.png)
